@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "updated": "2026-07-28T22:15:37Z",
+ "repo": "hubertlu-tw/FlyDSL",
+ "runs": [
+  {
+   "run_id": 30396790831,
+   "pr": null,
+   "commit": "9a5c08e77355f915ad35965bea8ea88f0af33bf3",
+   "branch": "main",
+   "event": "push",
+   "title": "[Enh] Add rounding-mode control for float-to-float casts (#916)",
+   "status": "queued",
+   "conclusion": null,
+   "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/30396790831",
+   "created_at": "2026-07-28T20:32:41Z",
+   "updated_at": "2026-07-28T20:33:20Z",
+   "actor": "hubertlu-tw",
+   "jobs": []
+  },
+  {
+   "run_id": 27305444912,
+   "pr": null,
+   "commit": "3e7f66e713c72b03cefddf3bb1cb26f8992288d4",
+   "branch": "main",
+   "event": "push",
+   "title": "[Opt] Speed up CompiledFunction fast dispatch for changing args (#672)",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/27305444912",
+   "created_at": "2026-06-10T20:49:59Z",
+   "updated_at": "2026-06-11T20:50:40Z",
+   "actor": "hubertlu-tw",
+   "jobs": [
+    {
+     "runner": "linux-flydsl-navi-2",
+     "arch": "gfx1201",
+     "status": "completed",
+     "conclusion": "cancelled",
+     "started_at": "2026-06-10T20:50:39Z",
+     "completed_at": "2026-06-11T20:50:39Z",
+     "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/27305444912/job/80662024995"
+    },
+    {
+     "runner": "linux-flydsl-mi325-1",
+     "arch": "gfx942",
+     "status": "completed",
+     "conclusion": "cancelled",
+     "started_at": "2026-06-10T20:50:39Z",
+     "completed_at": "2026-06-11T20:50:39Z",
+     "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/27305444912/job/80662025004"
+    },
+    {
+     "runner": "linux-flydsl-mi355-1",
+     "arch": "gfx950",
+     "status": "completed",
+     "conclusion": "cancelled",
+     "started_at": "2026-06-10T20:50:39Z",
+     "completed_at": "2026-06-11T20:50:39Z",
+     "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/27305444912/job/80662025012"
+    }
+   ]
+  }
+ ]
+}
