@@ -1,8 +1,23 @@
 {
  "schema": 1,
- "updated": "2026-10-01T18:24:02Z",
+ "updated": "2026-10-01T21:40:33Z",
  "repo": "hubertlu-tw/FlyDSL",
  "runs": [
+  {
+   "run_id": 36930083244,
+   "pr": null,
+   "commit": "1941889400621f1fc3d8f03bada1a4e7380cdf7e",
+   "branch": "main",
+   "event": "push",
+   "title": "[Build] Find ROCm through rocm-sdk before falling back to /opt/rocm* \u2026",
+   "status": "completed",
+   "conclusion": "failure",
+   "url": "https://github.com/hubertlu-tw/FlyDSL/actions/runs/36930083244",
+   "created_at": "2026-10-01T21:39:10Z",
+   "updated_at": "2026-10-01T21:40:22Z",
+   "actor": "hubertlu-tw",
+   "jobs": []
+  },
   {
    "run_id": 30396790831,
    "pr": null,
